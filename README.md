@@ -13,3 +13,4 @@ this is a collection of my favourite pappers and books on the functional program
 Applicative Programming with Effects 
 
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
+[What is Applied Category Theory?](https://arxiv.org/abs/1809.05923)
