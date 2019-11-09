@@ -20,4 +20,4 @@ this is a collection of my favourite pappers and books on the functional program
 
 [An introduction to (co)algebra and (co)induction](https://homepages.cwi.nl/~janr/papers/files-of-papers/2011_Jacobs_Rutten_new.pdf&usg=AOvVaw17jFzU7DYFnM4avJpgELY0)
 
-Applicative Programming with Effects 
+Applicative Programming with Effects (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjB6qqd993lAhUE2KQKHf_-CBIQFjABegQIABAC&url=http%3A%2F%2Fstrictlypositive.org%2FIdiom.pdf&usg=AOvVaw09DghsoPlDFGGb4PHrMdNn)
