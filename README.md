@@ -25,3 +25,5 @@ this is a collection of my favourite pappers and books on the functional program
 [An Investigation of the Laws of Traversals](https://arxiv.org/abs/1202.2919)
 
 [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES ](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.97.5948)
+
+[The essence of the Iterator pattern](https://www.researchgate.net/publication/220676565_The_essence_of_the_Iterator_pattern)
