@@ -27,4 +27,4 @@ this is a collection of my favourite pappers and books on the functional program
 [CATEGORICAL PROGRAMMING WITH INDUCTIVE AND COINDUCTIVE TYPES ](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.97.5948)
 
 [The essence of the Iterator pattern](https://www.researchgate.net/publication/220676565_The_essence_of_the_Iterator_pattern)
-[Algebra of programming] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=2ahUKEwiCxvOA2v7lAhXS-KQKHZ58DEEQFjAHegQIAhAC&url=https%3A%2F%2Fthemattchan.com%2Fdocs%2Falgprog.pdf&usg=AOvVaw02sObW8TU9HwvqaIz46w05)
+[Algebra of programming](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=2ahUKEwiCxvOA2v7lAhXS-KQKHZ58DEEQFjAHegQIAhAC&url=https%3A%2F%2Fthemattchan.com%2Fdocs%2Falgprog.pdf&usg=AOvVaw02sObW8TU9HwvqaIz46w05)
