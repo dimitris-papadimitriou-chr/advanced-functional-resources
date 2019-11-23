@@ -29,3 +29,4 @@ this is a collection of my favourite pappers and books on the functional program
 [The essence of the Iterator pattern](https://www.researchgate.net/publication/220676565_The_essence_of_the_Iterator_pattern)
 
 [Algebra of programming](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=2ahUKEwiCxvOA2v7lAhXS-KQKHZ58DEEQFjAHegQIAhAC&url=https%3A%2F%2Fthemattchan.com%2Fdocs%2Falgprog.pdf&usg=AOvVaw02sObW8TU9HwvqaIz46w05)
+[Lectures on Semantics: The initial algebra and final coalgebra perspectives ](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1CED3B938A52E68E720186AE2C693C7D?doi=10.1.1.46.6839&rep=rep1&type=pdf)
