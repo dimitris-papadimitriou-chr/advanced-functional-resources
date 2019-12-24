@@ -35,3 +35,5 @@ this is a collection of my favourite pappers and books on the functional program
 [Topoi: The Categorial Analysis of Logic](https://projecteuclid.org/euclid.bia/1403013939#toc)
 
 [Categorical Logic](https://github.com/awodey/CatLogNotes)
+
+[Category Theory (suggested by nLab)](http://www.andrew.cmu.edu/course/80-413-713/)
