@@ -20,6 +20,8 @@ this is a collection of my favourite pappers and books on the functional program
 
 [An introduction to (co)algebra and (co)induction](https://homepages.cwi.nl/~janr/papers/files-of-papers/2011_Jacobs_Rutten_new.pdf)
 
+[Everything from this  Jan Rutten page](https://homepages.cwi.nl/~janr/papers/)
+
 [Applicative Programming with Effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.html)
 
 [An Investigation of the Laws of Traversals](https://arxiv.org/abs/1202.2919)
@@ -33,6 +35,8 @@ this is a collection of my favourite pappers and books on the functional program
 [Lectures on Semantics: The initial algebra and final coalgebra perspectives ](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1CED3B938A52E68E720186AE2C693C7D?doi=10.1.1.46.6839&rep=rep1&type=pdf)
 
 [Topoi: The Categorial Analysis of Logic](https://projecteuclid.org/euclid.bia/1403013939#toc)
+
+
 
 [Categorical Logic](https://github.com/awodey/CatLogNotes)
 
