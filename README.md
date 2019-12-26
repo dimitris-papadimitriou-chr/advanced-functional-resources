@@ -20,7 +20,7 @@ this is a collection of my favourite pappers and books on the functional program
 
 [An introduction to (co)algebra and (co)induction](https://homepages.cwi.nl/~janr/papers/files-of-papers/2011_Jacobs_Rutten_new.pdf)
 
-[Everything from this  Jan Rutten page](https://homepages.cwi.nl/~janr/papers/)
+[Everything from this  Jan Rutten page on CoAlgebras and CoInduction](https://homepages.cwi.nl/~janr/papers/)
 
 [Applicative Programming with Effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.html)
 
