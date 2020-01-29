@@ -8,7 +8,7 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
 
-[What is Applied Category Theory?](https://arxiv.org/abs/1809.05923)
+[What is Applied Category Theory?](https://arxiv.org/abs/1809.05923) a very nicely done summary of cateory theory by Tai-Danae Bradley, the creator of [math3ma](https://www.math3ma.com/categories/category-theory)
 
 [nlab category theory !](https://ncatlab.org/nlab/show/category+theory)
 
