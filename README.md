@@ -5,6 +5,7 @@ this is a collection of my favourite pappers and books on the functional program
 
 
 ## Category Theory 
+[Category Theory: A Gentle Introduction](https://www.logicmatters.net/categories/) that is propably my favourite book on Categories.Peter Smith did an amazing job  
 
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
 
