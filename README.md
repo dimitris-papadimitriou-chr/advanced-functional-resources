@@ -20,6 +20,8 @@ this is a collection of my favourite pappers and books on the functional program
 
 [ Homotopy Type Theory](https://homotopytypetheory.org/book/) In this book there are some new Ideas in the Field that combine Topology, Type Theory and Category theory. Those are advanced ideas that are not directly applicable by the practical programmer, but are definitely some beautiful ideas to ponder upon
 
+[Categorical Semantics of Linear Logic](https://www.irif.fr/~mellies//mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) my favourite introduction to the concept of Categorical Semantics
+
 ## algebras
 
 [An introduction to (co)algebra and (co)induction](https://homepages.cwi.nl/~janr/papers/files-of-papers/2011_Jacobs_Rutten_new.pdf)
