@@ -11,9 +11,7 @@ this is a collection of my favourite pappers and books on the functional program
 
 [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923) a very nicely done summary of cateory theory by Tai-Danae Bradley, the creator of [math3ma](https://www.math3ma.com/categories/category-theory)
 [What is an Adjunction? Part 1](https://www.math3ma.com/blog/what-is-an-adjunction-part-1)
-
 [What is an Adjunction? Part 2](https://www.math3ma.com/blog/what-is-an-adjunction-part-2)
-
 [What is an Adjunction? Part 3](https://www.math3ma.com/blog/what-is-an-adjunction-part-3)
 
 [nlab category theory !](https://ncatlab.org/nlab/show/category+theory)
