@@ -24,6 +24,8 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Categorical Logic](https://github.com/awodey/CatLogNotes)
 
+[Lecture Notes:Introduction to Categorical Logic](https://www.andrew.cmu.edu/user/jonasf/80-514-814/notes.pdf)
+
 [Category Theory (suggested by nLab)](http://www.andrew.cmu.edu/course/80-413-713/)
 
 ### Homotopy Type  Theory
