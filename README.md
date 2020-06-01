@@ -20,10 +20,19 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context.pdf)
 
+[Categorical Semantics of Linear Logic](https://www.irif.fr/~mellies//mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) my favourite introduction to the concept of Categorical Semantics
+
+[Topoi: The Categorial Analysis of Logic](https://projecteuclid.org/euclid.bia/1403013939#toc)
+
+[Categorical Logic](https://github.com/awodey/CatLogNotes)
+
+[Category Theory (suggested by nLab)](http://www.andrew.cmu.edu/course/80-413-713/)
+
+### Homotopy Type  Theory
+
+[Introduction to Homotopy Type Theory](https://github.com/EgbertRijke/HoTT-Intro/blob/master/pdfs/2019-summer-school.pdf) my favourite introduction 
 
 [ Homotopy Type Theory](https://homotopytypetheory.org/book/) In this book there are some new Ideas in the Field that combine Topology, Type Theory and Category theory. Those are advanced ideas that are not directly applicable by the practical programmer, but are definitely some beautiful ideas to ponder upon
-
-[Categorical Semantics of Linear Logic](https://www.irif.fr/~mellies//mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) my favourite introduction to the concept of Categorical Semantics
 
 ## algebras
 
@@ -43,10 +52,5 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Lectures on Semantics: The initial algebra and final coalgebra perspectives ](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1CED3B938A52E68E720186AE2C693C7D?doi=10.1.1.46.6839&rep=rep1&type=pdf)
 
-[Topoi: The Categorial Analysis of Logic](https://projecteuclid.org/euclid.bia/1403013939#toc)
 
 
-
-[Categorical Logic](https://github.com/awodey/CatLogNotes)
-
-[Category Theory (suggested by nLab)](http://www.andrew.cmu.edu/course/80-413-713/)
