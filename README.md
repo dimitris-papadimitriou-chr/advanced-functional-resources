@@ -18,8 +18,6 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Bartosz Milewski - Category Theory for Programmers ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwjwsI3q9d3lAhXGfFAKHfAeAh8QFjANegQIAhAC&url=https%3A%2F%2Funglueit-files.s3.amazonaws.com%2Febf%2Fe90890f0a6ea420c9825657d6f3a851d.pdf&usg=AOvVaw0zhLdYBYLTEXUr-mBJql7k)
 
-[Category Theory in Context](http://www.math.jhu.edu/~eriehl/context.pdf)
-
 [Categorical Semantics of Linear Logic](https://www.irif.fr/~mellies//mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) my favourite introduction to the concept of Categorical Semantics
 
 [Topoi: The Categorial Analysis of Logic](https://projecteuclid.org/euclid.bia/1403013939#toc)
