@@ -4,7 +4,7 @@
 this is a collection of my favourite pappers and books on the functional programming domain 
 
 
-## Category Theory 
+# Category Theory 
 [Category Theory: A Gentle Introduction](https://www.logicmatters.net/categories/) that is propably my favourite book on Categories.Peter Smith did an amazing job  
 
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
@@ -28,13 +28,13 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Category Theory (suggested by nLab)](http://www.andrew.cmu.edu/course/80-413-713/)
 
-### Homotopy Type  Theory
+# Homotopy Type  Theory
 
 [Introduction to Homotopy Type Theory](https://github.com/EgbertRijke/HoTT-Intro/blob/master/pdfs/2019-summer-school.pdf) my favourite introduction 
 
 [ Homotopy Type Theory](https://homotopytypetheory.org/book/) In this book there are some new Ideas in the Field that combine Topology, Type Theory and Category theory. Those are advanced ideas that are not directly applicable by the practical programmer, but are definitely some beautiful ideas to ponder upon
 
-## algebras
+# algebras
 
 [An introduction to (co)algebra and (co)induction](https://homepages.cwi.nl/~janr/papers/files-of-papers/2011_Jacobs_Rutten_new.pdf)
 
@@ -52,7 +52,7 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Lectures on Semantics: The initial algebra and final coalgebra perspectives ](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1CED3B938A52E68E720186AE2C693C7D?doi=10.1.1.46.6839&rep=rep1&type=pdf)
 
-## Fun
+# Fun
 
 [Logicians Who Reason About Themselves (invited talk)](http://www.tark.org/proceedings/tark_mar19_86/p341-smullyan.pdf)
 
