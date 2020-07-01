@@ -52,5 +52,8 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Lectures on Semantics: The initial algebra and final coalgebra perspectives ](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1CED3B938A52E68E720186AE2C693C7D?doi=10.1.1.46.6839&rep=rep1&type=pdf)
 
+## Fun
+
+[Logicians Who Reason About Themselves (invited talk)](http://www.tark.org/proceedings/tark_mar19_86/p341-smullyan.pdf)
 
 
