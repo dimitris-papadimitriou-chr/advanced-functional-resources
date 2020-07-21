@@ -30,7 +30,7 @@ this is a collection of my favourite pappers and books on the functional program
 
 # Type  Theory
 [Programming in Martin-L¨of’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)  
-
+[Intuitionistic Type Theory: Notes  ](https://github.com/dimitris-papadimitriou-chr/functional-resources/blob/master/MartinL%C3%B6f1984.pdf)
 # Homotopy Type  Theory
 
 [Introduction to Homotopy Type Theory](https://github.com/EgbertRijke/HoTT-Intro/blob/master/pdfs/2019-summer-school.pdf) my favourite introduction 
