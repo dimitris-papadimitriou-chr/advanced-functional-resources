@@ -28,6 +28,9 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Category Theory (suggested by nLab)](http://www.andrew.cmu.edu/course/80-413-713/)
 
+# Type  Theory
+[Programming in Martin-L¨of’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)  
+
 # Homotopy Type  Theory
 
 [Introduction to Homotopy Type Theory](https://github.com/EgbertRijke/HoTT-Intro/blob/master/pdfs/2019-summer-school.pdf) my favourite introduction 
