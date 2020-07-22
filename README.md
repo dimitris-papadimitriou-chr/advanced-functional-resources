@@ -28,6 +28,8 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Category Theory (suggested by nLab)](http://www.andrew.cmu.edu/course/80-413-713/)
 
+[A Brisk Tour of (Enriched) Category Theory](https://digitalcommons.oberlin.edu/honors/208/) a great intro into the concept of Enriched Categories
+
 # Type  Theory
 [Programming in Martin-L¨of’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)  
 [Intuitionistic Type Theory: Notes  ](https://github.com/dimitris-papadimitriou-chr/functional-resources/blob/master/MartinL%C3%B6f1984.pdf)
