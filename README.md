@@ -1,4 +1,4 @@
-# functional-resources
+# Functional-Resources
 
 
 this is a collection of my favourite pappers and books on the functional programming domain 
@@ -23,7 +23,7 @@ this is a collection of my favourite pappers and books on the functional program
 
 [A Brisk Tour of (Enriched) Category Theory](https://digitalcommons.oberlin.edu/honors/208/) a great intro into the concept of Enriched Categories
 
-## Categorical Logic 
+### Categorical Logic 
 [Categorical Semantics of Linear Logic](https://www.irif.fr/~mellies//mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) my favourite introduction to the concept of Categorical Semantics
 
 [Topoi: The Categorial Analysis of Logic](https://projecteuclid.org/euclid.bia/1403013939#toc)
@@ -34,8 +34,11 @@ this is a collection of my favourite pappers and books on the functional program
 
 
 # Type  Theory
+
 [Programming in Martin-L¨of’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)  
+
 [Intuitionistic Type Theory: Notes  ](https://github.com/dimitris-papadimitriou-chr/functional-resources/blob/master/MartinL%C3%B6f1984.pdf)
+
 # Homotopy Type  Theory
 
 [Introduction to Homotopy Type Theory](https://github.com/EgbertRijke/HoTT-Intro/blob/master/pdfs/2019-summer-school.pdf) my favourite introduction 
