@@ -10,6 +10,7 @@ this is a collection of my favourite pappers and books on the functional program
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
 
 [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923) a very nicely done summary of cateory theory by Tai-Danae Bradley, the creator of [math3ma](https://www.math3ma.com/categories/category-theory)
+
 [What is an Adjunction? Part 1](https://www.math3ma.com/blog/what-is-an-adjunction-part-1)
 [What is an Adjunction? Part 2](https://www.math3ma.com/blog/what-is-an-adjunction-part-2)
 [What is an Adjunction? Part 3](https://www.math3ma.com/blog/what-is-an-adjunction-part-3)
@@ -18,6 +19,11 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Bartosz Milewski - Category Theory for Programmers ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwjwsI3q9d3lAhXGfFAKHfAeAh8QFjANegQIAhAC&url=https%3A%2F%2Funglueit-files.s3.amazonaws.com%2Febf%2Fe90890f0a6ea420c9825657d6f3a851d.pdf&usg=AOvVaw0zhLdYBYLTEXUr-mBJql7k)
 
+[Category Theory (suggested by nLab)](http://www.andrew.cmu.edu/course/80-413-713/)
+
+[A Brisk Tour of (Enriched) Category Theory](https://digitalcommons.oberlin.edu/honors/208/) a great intro into the concept of Enriched Categories
+
+## Categorical Logic 
 [Categorical Semantics of Linear Logic](https://www.irif.fr/~mellies//mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) my favourite introduction to the concept of Categorical Semantics
 
 [Topoi: The Categorial Analysis of Logic](https://projecteuclid.org/euclid.bia/1403013939#toc)
@@ -26,9 +32,6 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Lecture Notes:Introduction to Categorical Logic](https://www.andrew.cmu.edu/user/jonasf/80-514-814/notes.pdf)
 
-[Category Theory (suggested by nLab)](http://www.andrew.cmu.edu/course/80-413-713/)
-
-[A Brisk Tour of (Enriched) Category Theory](https://digitalcommons.oberlin.edu/honors/208/) a great intro into the concept of Enriched Categories
 
 # Type  Theory
 [Programming in Martin-L¨of’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)  
