@@ -46,6 +46,10 @@ this is a collection of my favourite pappers and books on the functional program
 [ Homotopy Type Theory](https://homotopytypetheory.org/book/) In this book there are some new Ideas in the Field that combine Topology, Type Theory and Category theory. Those are advanced ideas that are not directly applicable by the practical programmer, but are definitely some beautiful ideas to ponder upon
 
 [Programs and Proofs](https://ilyasergey.net/pnp/)
+
+[Formal Reasoning About Programs](http://adam.chlipala.net/frap/)
+
+
 # Algebras
 
 [An introduction to (co)algebra and (co)induction](https://homepages.cwi.nl/~janr/papers/files-of-papers/2011_Jacobs_Rutten_new.pdf)
