@@ -49,6 +49,13 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Formal Reasoning About Programs](http://adam.chlipala.net/frap/)
 
+**science4all.org**
+
+[Type Theory: A Modern Computable Paradigm for Math](http://www.science4all.org/article/type-theory/)
+
+[Homotopy Type Theory and Higher Inductive Types](https://www.science4all.org/article/homotopy-type-theory/)
+
+[Univalent Foundations of Mathematics](http://www.science4all.org/article/univalence/)
 
 # Algebras
 
