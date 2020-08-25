@@ -4,6 +4,8 @@
 this is a collection of my favourite pappers and books on the functional programming domain 
 
 
+[The Open Logic Project ](https://openlogicproject.org)- "is a collection of teaching materials on mathematical logic aimed at a non-mathematical audience, intended for use in advanced logic courses as taught in many philosophy departments"
+
 # Category Theory 
 [Category Theory: A Gentle Introduction](https://www.logicmatters.net/categories/) that is propably my favourite book on Categories.Peter Smith did an amazing job  
 
