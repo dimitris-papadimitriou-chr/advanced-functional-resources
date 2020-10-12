@@ -83,3 +83,6 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Univalent Foundations of Mathematics](http://www.science4all.org/article/univalence/)
 
+[Incomplete and Utter Introduction to Modal Logic, Pt. 1](https://serokell.io/blog/incomplete-and-utter-introduction-to-modal-logic)
+
+[Incomplete and Utter Introduction to Modal Logic, Pt. 2](https://serokell.io/blog/rapid-introduction-to-modal-logic-2)
