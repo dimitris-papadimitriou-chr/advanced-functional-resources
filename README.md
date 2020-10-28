@@ -25,6 +25,8 @@ this is a collection of my favourite pappers and books on the functional program
 
 [A Brisk Tour of (Enriched) Category Theory](https://digitalcommons.oberlin.edu/honors/208/) a great intro into the concept of Enriched Categories
 
+[On traced monoidal closed categories](http://www.kurims.kyoto-u.ac.jp/~hassei/papers/2009_mscs.pdf)
+
 ### Categorical Logic 
 [Categorical Semantics of Linear Logic](https://www.irif.fr/~mellies//mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) my favourite introduction to the concept of Categorical Semantics
 
