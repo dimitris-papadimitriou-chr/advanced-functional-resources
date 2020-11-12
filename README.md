@@ -44,6 +44,8 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Intuitionistic Type Theory: Notes  ](https://github.com/dimitris-papadimitriou-chr/functional-resources/blob/master/MartinL%C3%B6f1984.pdf)
 
+[Domain-theoretic foundations of functional programming](https://pdfs.semanticscholar.org/82fd/128721017912939cc859623e550d87561f0a.pdf)
+
 # Homotopy Type  Theory
 
 [Introduction to Homotopy Type Theory](https://github.com/EgbertRijke/HoTT-Intro/blob/master/pdfs/2019-summer-school.pdf) my favourite introduction 
