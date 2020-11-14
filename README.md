@@ -40,6 +40,8 @@ this is a collection of my favourite pappers and books on the functional program
 # Type  Theory
 [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 
+[Principles of Programming Languages](http://pl.cs.jhu.edu/pl/book/index.shtml)
+
 [Programming in Martin-L¨of’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)  
 
 [Intuitionistic Type Theory: Notes  ](https://github.com/dimitris-papadimitriou-chr/functional-resources/blob/master/MartinL%C3%B6f1984.pdf)
