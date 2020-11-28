@@ -6,6 +6,9 @@ this is a collection of my favourite pappers and books on the functional program
 
 [The Open Logic Project ](https://openlogicproject.org)- "is a collection of teaching materials on mathematical logic aimed at a non-mathematical audience, intended for use in advanced logic courses as taught in many philosophy departments"
 
+[Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html) This is a little gem 
+
+
 # Category Theory 
 [Category Theory: A Gentle Introduction](https://www.logicmatters.net/categories/) that is propably my favourite book on Categories.Peter Smith did an amazing job  
 
