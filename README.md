@@ -38,7 +38,7 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Categorical Semantics of Linear Logic](https://www.irif.fr/~mellies//mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) my favourite introduction to the concept of Categorical Semantics
 
-[Topoi: The Categorial Analysis of Logic](https://projecteuclid.org/euclid.bia/1403013939#toc)
+[Topoi: The Categorial Analysis of Logic](https://projecteuclid.org/euclid.bia/1403013939#toc) Iconic book on Topos theory
 
 [Categorical Logic](https://github.com/awodey/CatLogNotes)
 
