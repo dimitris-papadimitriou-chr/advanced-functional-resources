@@ -31,6 +31,9 @@ this is a collection of my favourite pappers and books on the functional program
 [On traced monoidal closed categories](http://www.kurims.kyoto-u.ac.jp/~hassei/papers/2009_mscs.pdf)
 
 ### Categorical Logic 
+
+[Oregon Programming Languages Summer School —  2014 ( Category Theory — Lars Birkedal )](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
+
 [Category Theory and Lambda Calculus - Mario Román](https://github.com/mroman42/ctlc/blob/master/docs/ctlc.pdf)
 
 [Categorical Semantics of Linear Logic](https://www.irif.fr/~mellies//mpri/mpri-ens/biblio/categorical-semantics-of-linear-logic.pdf) my favourite introduction to the concept of Categorical Semantics
