@@ -12,8 +12,6 @@ this is a collection of my favourite pappers and books on the functional program
 # Category Theory 
 [Category Theory: A Gentle Introduction](https://www.logicmatters.net/categories/) that is propably my favourite book on Categories.Peter Smith did an amazing job  
 
-[Category Theory — Lars Birkedal](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html) from the "Oregon Programming Languages Summer School"
-
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
 
 [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923) a very nicely done summary of cateory theory by Tai-Danae Bradley, the creator of [math3ma](https://www.math3ma.com/categories/category-theory)
