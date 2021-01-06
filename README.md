@@ -44,6 +44,8 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Lecture Notes:Introduction to Categorical Logic](https://www.andrew.cmu.edu/user/jonasf/80-514-814/notes.pdf)
 
+[Higher-Dimensional Type Theory](https://favonia.org/courses/hdtt2020/) [Videos](https://www.youtube.com/channel/UC0BtDzepe0odmpRbmpi5q7Q/videos)
+
 
 # Type  Theory
 [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
