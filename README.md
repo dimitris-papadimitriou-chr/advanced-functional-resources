@@ -90,6 +90,8 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Logicians Who Reason About Themselves (invited talk)](http://www.tark.org/proceedings/tark_mar19_86/p341-smullyan.pdf)
 
+[Solving Smullyan Puzzles with Formal Systems](https://www.researchgate.net/publication/285768711_Solving_Smullyan_Puzzles_with_Formal_Systems)
+
 [Diagonalization & The Fixed Point Lemma](https://github.com/qubd/qubd.github.io/blob/master/files/FixedPointLemma.pdf)
 
 **science4all.org**
