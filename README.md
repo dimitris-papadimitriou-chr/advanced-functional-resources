@@ -48,6 +48,9 @@ this is a collection of my favourite pappers and books on the functional program
 
 
 # Type  Theory
+
+[Constructive Logic ](http://www.cs.cmu.edu/~fp/courses/15317-f00/handouts/class.pdf)
+
 [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 
 [Principles of Programming Languages](http://pl.cs.jhu.edu/pl/book/index.shtml)
