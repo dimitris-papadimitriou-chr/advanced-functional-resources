@@ -73,7 +73,7 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Hott Video Lectures by Robert Harper](https://www.youtube.com/channel/UC1410RlQGhujsO0eRsWmieg/videos)
 
-
+[Minicourse on Homotopy Type Theory](http://home.sandiego.edu/~shulman/hottminicourse2012/) this is slides only, but very enlighening
 # Algebras
 
 [An introduction to (co)algebra and (co)induction](https://homepages.cwi.nl/~janr/papers/files-of-papers/2011_Jacobs_Rutten_new.pdf)
