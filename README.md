@@ -47,6 +47,9 @@ this is a collection of my favourite pappers and books on the functional program
 [Higher-Dimensional Type Theory](https://favonia.org/courses/hdtt2020/) - [Videos](https://www.youtube.com/channel/UC0BtDzepe0odmpRbmpi5q7Q/videos)
 
 [ Proofs and Models in Philosophical Logic: to appear in Cambridge Elements. ](http://www.math.helsinki.fi/logic/sellc-2010/course/restall.pdf)
+
+[Logic Matters](https://www.logicmatters.net/books/)
+
 # Type  Theory
 
 [Constructive Logic ](http://www.cs.cmu.edu/~fp/courses/15317-f00/handouts/class.pdf)
