@@ -46,9 +46,14 @@ this is a collection of my favourite pappers and books on the functional program
 
 [Higher-Dimensional Type Theory](https://favonia.org/courses/hdtt2020/) - [Videos](https://www.youtube.com/channel/UC0BtDzepe0odmpRbmpi5q7Q/videos)
 
+
+# Logic 
+
 [ Proofs and Models in Philosophical Logic: to appear in Cambridge Elements. ](http://www.math.helsinki.fi/logic/sellc-2010/course/restall.pdf)
 
 [Logic Matters](https://www.logicmatters.net/books/)
+
+[Introduction to Modal Logic](http://videolectures.net/ssll09_gore_iml/) this is one of the most easy walkthoughts throught modal logic.
 
 # Type  Theory
 
